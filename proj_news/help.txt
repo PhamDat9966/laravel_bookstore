@@ -1,0 +1,10 @@
+=========== QUẬY Laravel ============
+http://proj_news.xyz/                           Home
+http://proj_news.xyz/about                      About
+http://proj_news.xyz/category/1                 Category
+http://proj_news.xyz/admin/category/edit/12
+
+Quản lý chi tiết Slider
+Danh sách slider        http://proj_news.xyz/slider
+Edit slider             http://proj_news.xyz/slider/edit/12
+Xóa slider              http://proj_news.xyz/slider/delete/12
